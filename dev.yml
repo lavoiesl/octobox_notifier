@@ -1,0 +1,4 @@
+up:
+  - ruby: 2.5.1
+
+build: bin/update-deps
